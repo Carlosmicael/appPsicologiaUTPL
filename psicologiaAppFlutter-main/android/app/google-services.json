@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "758525324097",
+    "project_id": "psicologia-app-liid",
+    "storage_bucket": "psicologia-app-liid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758525324097:android:ff12a59e595bba710a8fc0",
+        "android_client_info": {
+          "package_name": "com.liid.psicologiaappliid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758525324097-98rscji3ri2riuoof9ti2cns54fbii33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liid.psicologiaappliid",
+            "certificate_hash": "b37779dd96a16dd87f8b89e358762db29abae62b"
+          }
+        },
+        {
+          "client_id": "758525324097-gq756g3iana1rl0mq2h2m6ucm46ak0j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liid.psicologiaappliid",
+            "certificate_hash": "2f1085b048e32260335473420f5f34fc7348fc3a"
+          }
+        },
+        {
+          "client_id": "758525324097-69c2cjh5in4henh6akqlhvmbppmclf5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kCJrab8RFC1CHR3AJASLEtiim-O1NQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758525324097-69c2cjh5in4henh6akqlhvmbppmclf5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758525324097-ct70fk8jc8afcnrc4jhnj9qhvpeduap2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.psicologiaAppLiid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758525324097:android:32519f5c849a769b0a8fc0",
+        "android_client_info": {
+          "package_name": "com.liid.psicologiaappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758525324097-9e7uir82dbpq7no2a4jpqveisniovjci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liid.psicologiaappv2",
+            "certificate_hash": "fa3955ecb8c116c92fab4f88bb6f75ded9400b27"
+          }
+        },
+        {
+          "client_id": "758525324097-69c2cjh5in4henh6akqlhvmbppmclf5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kCJrab8RFC1CHR3AJASLEtiim-O1NQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758525324097-69c2cjh5in4henh6akqlhvmbppmclf5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758525324097-ct70fk8jc8afcnrc4jhnj9qhvpeduap2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.psicologiaAppLiid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758525324097:android:4085b8fe7fffb6330a8fc0",
+        "android_client_info": {
+          "package_name": "com.liid.psicologiav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758525324097-i2hm1so1om819s5ue2ug9dsjubrqp3m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liid.psicologiav2",
+            "certificate_hash": "fa3955ecb8c116c92fab4f88bb6f75ded9400b27"
+          }
+        },
+        {
+          "client_id": "758525324097-69c2cjh5in4henh6akqlhvmbppmclf5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kCJrab8RFC1CHR3AJASLEtiim-O1NQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758525324097-69c2cjh5in4henh6akqlhvmbppmclf5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758525324097-ct70fk8jc8afcnrc4jhnj9qhvpeduap2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.psicologiaAppLiid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
