@@ -1,0 +1,83 @@
+name: psicologia_app_liid
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  android_intent_plus: ^5.3.0
+  permission_handler: ^11.3.1
+  lottie: ^3.0.0
+  audioplayers: ^5.2.1
+  cached_network_image: ^3.2.3
+  cloud_firestore: ^4.15.1
+  connectivity_plus: null
+  cupertino_icons: ^1.0.8
+  device_info_plus: ^10.1.2
+  equatable: ^2.0.5
+  file_selector: ^1.0.0
+  firebase_analytics: ^10.7.2
+  firebase_auth: ^4.17.4
+  firebase_core: ^2.24.2
+  firebase_messaging: ^14.7.2
+  firebase_storage: ^11.5.2
+  fl_chart: ^0.70.2
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.0
+  flutter_cache_manager: ^3.3.1
+  flutter_launcher_icons: ^0.14.3
+  flutter_local_notifications: ^19.0.0
+  flutter_native_splash: ^2.4.6
+  flutter_svg: ^2.0.9
+  get: ^4.6.6
+  google_sign_in: ^6.1.6
+  intl: ^0.18.1
+  just_audio: ^0.9.30
+  logger: ^2.5.0
+  rxdart: null
+  timezone: ^0.10.0
+  video_player: ^2.8.1
+
+dev_dependencies:
+  change_app_package_name: ^1.1.0
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/
+    - lib/assets/images/pie.png
+    - lib/assets/images/marciano2.png
+    - lib/assets/images/mar_R.png
+    - lib/assets/images/cuadroTextob.png
+    - lib/assets/images/appbar.png
+    - lib/assets/images/fill.png
+    - lib/assets/images/fon1.png
+    - lib/assets/images/relo.png
+    - lib/assets/images/copa.png
+    - lib/assets/images/cosa1.png
+    - lib/assets/images/cosa2.png
+    - lib/assets/images/cosa3.png
+    - lib/assets/images/desafio.png
+    - lib/assets/images/robot_bajo.png
+    - lib/assets/images/robot_medio.png
+    - lib/assets/images/robot_alto.png
+    - lib/assets/images/reloj.png
+    - lib/assets/images/reloj.svg
+    - lib/assets/animations/loading.json
+    - lib/assets/animations/loadingTema.json
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon_1.png"
+  min_sdk_android: 21
+
+flutter_native_splash:
+  color: "#3284FF"

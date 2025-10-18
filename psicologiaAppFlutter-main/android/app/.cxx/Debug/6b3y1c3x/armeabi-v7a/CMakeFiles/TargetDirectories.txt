@@ -1,0 +1,2 @@
+C:/intellij/ProgramadorUtpl/Android_flutter/debug-AppPsicologia/debug-AppPsicologia/psicologiaAppFlutter-main/android/app/.cxx/Debug/6b3y1c3x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/intellij/ProgramadorUtpl/Android_flutter/debug-AppPsicologia/debug-AppPsicologia/psicologiaAppFlutter-main/android/app/.cxx/Debug/6b3y1c3x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
